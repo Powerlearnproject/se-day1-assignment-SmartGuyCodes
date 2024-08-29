@@ -12,5 +12,17 @@ b. Importance of Software Engineering
 
 c. Identify and describe at least three key milestones in the evolution of software engineering.
 
-- 
+- Development of programming languages
+- Establishment of software engineering as a discipline in the 1960s
+- The advent of programming in the 1970s
+- The rise of agile methodologies in the 2000s
+
+d. List and briefly explain the phases of the Software Development Life Cycle.
+
+- Requirements: Gathering and documenting user needs and system requirements
+- Design: Creating high-level and detailed designs of the software architecture and user interface
+- Implementation: writing code and building software according to the design specifications
+- Testing: Conducting tests to ensure software meets quality standards and functional requirements
+- Deploying: Releasing the software to customers and users
+- Maintenance: Providing ongoing support, updates and enhancements to the software after deployment
 
